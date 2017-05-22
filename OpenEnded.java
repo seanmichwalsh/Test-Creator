@@ -1,5 +1,9 @@
 package testProject;
 
+/* OpenEnded generates a somewhat random open-ended question from a specified chapter, and prints it and its 'answer' in a doc.
+Author: Carolyn Hagan
+*/
+
 public class OpenEnded extends Question
 // AVAILABLE: super, super.getPoints, super.getChapter, super.toString 
 {
