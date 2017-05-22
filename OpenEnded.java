@@ -1,6 +1,7 @@
 package testProject;
 
 public class OpenEnded extends Question
+// AVAILABLE: super, super.getPoints, super.getChapter, super.toString 
 {
 
 	public OpenEnded(int p, int c, String qT) {
@@ -12,5 +13,4 @@ public class OpenEnded extends Question
          *[returns nothing or perhaps a signal that all steps are working properly]
          */
 	}
-
 }
