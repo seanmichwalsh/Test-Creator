@@ -13,8 +13,11 @@ public class OpenEnded extends Question
 	 /*[generates random question from the question pile, from String pieces?]
          *[prints or presents it to the test document]
          *[writes to the answer key either, "answer is subjective; grade at your own discretion" or an approximate answer
-	 if possible. Perhaps the question's elements of knowledge?]
+	 if possible. Perhaps the question's elements of knowledge? Writes point value and chapter next to answer key line.]
          *[returns nothing or perhaps a signal that all steps are working properly]
+	 
+	 
+	 
          */
 	}
 }
