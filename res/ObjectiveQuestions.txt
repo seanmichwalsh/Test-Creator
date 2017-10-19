@@ -1,0 +1,42 @@
+12
+5
+What are blocks of consecutive memory locations under one name called?
+
+Arrays
+
+12
+5
+What represents a collection of related values of the same data type?
+
+Array
+
+12
+5
+What is another term for subscript?
+
+Index
+
+12
+5
+What is the index of the first element in an array?
+
+0
+
+12
+5
+What is the index of the last element in an array?
+
+Length - 1
+
+12
+5
+What are arrays passed to methods as?
+
+References
+
+12
+5
+What is a procedure by which each element in visited?
+
+Traversal
+

@@ -1,0 +1,42 @@
+12
+10
+What are arrays? 
+
+Blocks of consecutive memory locations under one name
+
+12
+10
+What does an array represent?
+
+A collection of related values of the same data type
+
+12
+10
+How do you refer to any specific element of an array?
+
+By placing the element’s index in brackets after the array name
+
+12
+10
+What is traversal?
+
+A procedure in which every element of a collection is visited and processed once
+
+12
+10
+When creating an array, how much space should be allocated?
+
+Enough for the maximum possible number of elements
+
+12
+10
+What is the purpose of a for each loop?
+
+It provides a convenient loop for traversing arrays
+
+12
+10
+What are two-dimensional arrays used to represent?
+
+Rectangular tables of the same data type
+

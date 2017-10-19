@@ -1,0 +1,120 @@
+12
+5
+Suppose the method int sign(int x) returns 1 if x is positive, -1 if x is negative, and 0 if x is 0. Given
+    int[] nums = {-2, -1, 0, 1, 2};
+What are the values of the elements of nums after the following code is executed?
+    for (int k=0; k<nums.length; k++)
+    {
+      nums[k] -= sign(nums[k]);
+      nums[k] += sign(nums[k]);
+    }
+
+-2, 0, 0, 0, 2
+
+
+-2, -1, 0, 1, 2
+
+-1, 0, 0, 0, 1
+
+0, 0 , 0, 0, 0
+
+12
+5
+Consider the following code segment:
+    String[][] m = new String[6][3];
+    for (int k = 0; k <m.length; k++)
+    {
+      m[k][m[0].length-1] = “*”;
+    }
+Which of the following best describes the result when this code segment is executed?
+
+All elements in the last column of m are set to “*”
+
+All elements in the first row of m are set to “*”
+
+All elements in the last row of m are set to “*”
+
+The code has no effect
+
+12
+5
+Which of these is an incorrect array declaration?
+
+int arr[] = int [5] new
+
+int arr[] = new int[5]
+
+int [] arr = new int[5]
+
+int arr[]
+
+12
+5
+What will this code print?
+     int arr[] = new int [5];
+     System.out.print(arr);
+
+Garbage value 
+        
+0                     
+
+value stored in arr[0].                     
+
+00000                   
+
+12
+5
+Which of these is an incorrect Statement?        
+
+It is necessary to use new operator to initialize an array.                 
+
+Array can be initialized using comma separated expressions surrounded by curly braces.                 
+
+Array can be initialized when they are declared.                     
+
+None of the mentioned                     
+
+12
+5
+Which of these must be specified at time of array initialization?        
+
+Row                     
+
+Column                     
+
+Both Row and Column                     
+
+None of the mentioned                     
+
+12
+5
+Consider the mambo object declaration below.
+double mambo[ ][ ];
+mambo = new double[4][5];
+int r; // row index on mambo
+int c; // column index of mambo
+Which of the following statements stores the
+column length of mambo?
+
+mambo.length
+
+mambo.rowLength
+
+mambo[r].length
+
+Mambo[c].length
+
+12
+5
+Which of the following statements correctly declares a two dimensional integer array?
+
+int Matrix[ ][ ] = new int[5][4];
+
+int Matrix[ ] = new int[5,4];
+
+int Matrix[ ];
+
+Matrix = new int[5,4];
+
+
+
